@@ -6,3 +6,5 @@
 
 ## 실행 환경 : Visual Studio Code
 
+## 실행 영상
+![Image](https://github.com/user-attachments/assets/7d00ef42-07c9-4455-afb5-4ea82b43bb06)
